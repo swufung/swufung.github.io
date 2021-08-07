@@ -83,7 +83,9 @@ author:
   name             : "Samy Wu Fung"
   avatar           : "profile.png"
   bio              : "Assistant Professor"
-  location         : "Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO, USA"
+  location         : "Department of Applied Mathematics and Statistics 
+  \
+  Colorado School of Mines, Golden, CO, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GN6Erl8AAAAJ&hl=en"
