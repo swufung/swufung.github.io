@@ -19,7 +19,7 @@ main:
     # url: /year-archive/
     
   - title: "CV"
-    url: https://swufung.github.io/cv/
+    url: /cv/
     
   # - title: "Guide"
     # url: /markdown/
