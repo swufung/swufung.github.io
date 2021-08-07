@@ -14,7 +14,7 @@ redirect_from:
   </head>
   <body>
     <h1>PDF Example with iframe</h1>
-    <iframe src="CV.pdf" width="100%" height="500px">
+    <iframe src="/CV.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>
