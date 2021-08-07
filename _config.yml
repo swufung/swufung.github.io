@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Samy Wu Fung"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor of Applied Mathematics"
   location         : "Golden, CO"
   employer         :
