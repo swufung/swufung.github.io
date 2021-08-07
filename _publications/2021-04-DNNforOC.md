@@ -3,7 +3,7 @@ title: "A Neural Network Approach for High-Dimensional Optimal Control"
 collection: publications
 permalink: /publication/2021-04-DNNforOC
 excerpt: 'We develop a deep learning algorithm to solve high-dimensional control problems.'
-date: 2021-04
+date: 2021-04-07
 venue: '<i> (under review) </i>'
 paperurl: 
 ---

@@ -3,7 +3,7 @@ title: "A Neural Network Approach Applied to Multi-Agent Optimal Control"
 collection: publications
 permalink: /publication/2021-04-DNNforMOC
 excerpt: 'We use DNNs to solve high-dimensional multi-agent control problems.'
-date: 2020-11
+date: 2020-11-09
 venue: '<i> European Control Conference 2021 (ECC2021) </i>'
 paperurl: 
 ---

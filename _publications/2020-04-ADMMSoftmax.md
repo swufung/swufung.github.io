@@ -3,7 +3,7 @@ title: "ADMM-Softmax: An ADMM Approach for Multinomial Logistic Regression"
 collection: publications
 permalink: /publication/2020-04-ADMMSoftmax
 excerpt: 'We develop an ADMM approach tailored to multinomial logistic regression.'
-date: 2020-04
+date: 2020-04-17
 venue: '<i> Electronic Transactions on Numerical Analysis </i>'
 paperurl: 
 ---

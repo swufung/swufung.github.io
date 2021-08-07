@@ -3,7 +3,7 @@ title: "A Machine Learning Framework for Solving High-Dimensional Mean Field Gam
 collection: publications
 permalink: /publication/2020-04-MLforMFG
 excerpt: 'We create an ML framework for solving high-dimensional mean field games.'
-date: 2020-04
+date: 2020-04-28
 venue: '<i> Proceedings of the National Academy of Sciences (PNAS) </i>'
 paperurl: 
 ---
