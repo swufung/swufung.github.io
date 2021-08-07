@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Applied Mathematics"
   location         : "Golden, CO"
-  employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : Colorado School of Mines
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GN6Erl8AAAAJ&hl=en"
-  email            :
+  email            : "swufung@mines.edu"
   researchgate     : "https://www.researchgate.net/profile/Samy-Wu-Fung-2"
   uri              :
   bitbucket        :
