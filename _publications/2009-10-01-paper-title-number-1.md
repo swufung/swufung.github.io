@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: 'Learn to predict equilibria via Fixed Point Networks.'
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-06-NFPN
+<!-- excerpt: 'We apply the FPN technology developed in an earlier work to the problem of predicting Nash equilibria in parametrized games.' -->
+date: 2021-06-02
+venue: '<i> (under review)</i>'
+paperurl: 'https://arxiv.org/pdf/2106.00906.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<i> Joint with Howard Heaton, Qiuwei Li, Samy Wu Fung, Stanley Osher and Wotao Yin.</i>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Systems of interacting agents can often be modeled as contextual games, where the context encodes additional information, beyond the control of any agent (e.g.weather for traffic and fiscal policy for market economies). We introduce Nash Fixed Point Networks (N-FPNs), a class of implicit-depth neural networks that output Nash equilibria of contextual games. We present an end-to-end training scheme for N-FPNs that is simple and memory efficient to implement with existing autodifferentiation tools. N-FPNs also exploit a novel constraint decoupling scheme to avoid costly projections. 
+
+[Arxiv version](https://arxiv.org/pdf/2106.00906.pdf)
