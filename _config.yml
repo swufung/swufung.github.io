@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samy Wu Fung"
   avatar           : "profile.png"
-  bio              : <div align="center">"Assistant Professor of Applied Mathematics"
+  bio              : "Assistant Professor of Applied Mathematics"
   location         : "Golden, CO"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
