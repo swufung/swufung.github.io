@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <h1>PDF Example with iframe</h1>
-    <iframe src="/CV.pdf" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
+<!-- <html> -->
+<!-- <head>
+  <title>Title of the document</title>
+</head>
+ -->
+ <body>
+  <h1>My CV</h1>
+  <iframe src="/CV.pdf" width="100%" height="500px">
+  </iframe>
+</body>
+<!-- </html> -->
 <!-- 
 Education
 ======
