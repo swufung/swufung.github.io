@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publication/
 
   - title: "News"
   url: /news/
@@ -19,7 +19,7 @@ main:
     # url: /year-archive/
     
   - title: "CV"
-    url: https://swufung.github.io/markdown-cv/
+    url: https://swufung.github.io/cv/
     
   # - title: "Guide"
     # url: /markdown/
