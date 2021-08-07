@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samy Wu Fung / Assistant Professor"
+title                    : "Samy Wu Fung"
 title_separator          : "-"
 name                     : &name "Samy Wu Fung"
 description              : &description "personal description"
