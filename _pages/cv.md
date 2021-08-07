@@ -8,7 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example with iframe</h1>
+    <iframe src="CV.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
+<!-- 
 Education
 ======
 * B.S. in TESTING, GitHub University, 2012
@@ -56,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

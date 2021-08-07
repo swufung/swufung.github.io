@@ -10,6 +10,12 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](https://www.mathcs.emory.edu/~lruthot/). My research interests lie in intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning. I am currently looking for graduate students. Email me with your CV if you are interested in the aforementioned research areas.
 
+Upcoming Talks
+======
+<!-- * 08/24/2021 [AMS Sectional Meeting: Special Session on Theoretical and Applied perspectives in Machine Learning](http://www.ams.org/meetings/sectional/2283_progfull.html) -->
+* 10/12/2021 [CU-Boulder Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/)
+
+
 Recent News
 ======
 * 06/2021: Our paper [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639) has been accepted by SIAM Journal on Scientific Computing (SISC). Thanks to Kelvin Kan and Lars Ruthotto for the collaboration.
