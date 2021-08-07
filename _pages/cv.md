@@ -14,8 +14,8 @@ redirect_from:
 </head>
  -->
  <body>
-  <h1>My CV</h1>
-  <iframe src="/CV.pdf" width="100%" height="500px">
+<!--   <h1>My CV</h1> -->
+  <iframe src="/CV.pdf" width="100%" height="800px">
   </iframe>
 </body>
 <!-- </html> -->
