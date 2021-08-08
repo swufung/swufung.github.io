@@ -1,6 +1,6 @@
-permalink: /
+permalink: /teaching/
 title: "Teaching"
-excerpt: 
+excerpt: hihihi
 author_profile: true
 <!-- ---
 layout: archive
