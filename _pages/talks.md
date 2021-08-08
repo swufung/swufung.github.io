@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: archive
 title: "Invited (i) and Contributed (c) talks"
 permalink: /talks/
 author_profile: true
---- -->
+---
 
 <!-- {% if site.talkmap_link == true %}
 
@@ -17,7 +17,7 @@ author_profile: true
  -->
 
 <!-- invited (i) and contributed (c) talks -->
-<!-- * Adversarial Projections for Inverse Problems
+* Adversarial Projections for Inverse Problems
 	* Applied Mathematics Colloquium at Dartmouth College. January 26, 2021 (i)
 	* PDE and Applied Math Seminar at University of California, Riverside. January 20, 2021 (i)
 	* Deep Learning Seminar at University of South Carolina. December 1, 2020 (i)
@@ -54,4 +54,4 @@ Large-Scale Classification using Multinomial Regression and ADMM, held at
 	* Numerical Analysis and Scientific Computing Seminar at Emory University, Atlanta, GA, USA, Feb 17, 2017 (c)
 * jInv, A Flexible Julia Package for Parallel PDE Parameter Estimation, held at
 	* E-poster at SIAM Conference on Computational Science and Engineering, Atlanta, GA, Mar 1, 2017 (c)
-	* Poster Session, Georgia Scientific Computing Symposium. Atlanta, GA. Feb 20, 2016 (c) -->
+	* Poster Session, Georgia Scientific Computing Symposium. Atlanta, GA. Feb 20, 2016 (c)
