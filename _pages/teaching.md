@@ -1,23 +1,9 @@
-permalink: /teaching/
-title: "Teaching"
-excerpt: hihihi
-author_profile: true
-<!-- ---
+---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
---- -->
-<!-- redirect_from:  -->
-  <!-- - /teaching/ -->
-  <!-- - /teaching.html -->
-
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
+---
 
 * Spring 2021
 	* Math199: Directed Undergraduate Research in Mathematics, Section 9, UCLA
