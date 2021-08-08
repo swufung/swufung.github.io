@@ -1,13 +1,13 @@
+permalink: /
+title: "Teaching"
+excerpt: 
+author_profile: true
 <!-- ---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 --- -->
-permalink: /
-title: "Teaching"
-excerpt: 
-author_profile: true
 <!-- redirect_from:  -->
   <!-- - /teaching/ -->
   <!-- - /teaching.html -->
@@ -21,7 +21,7 @@ author_profile: true
 
 * Spring 2021
 	* Math199: Directed Undergraduate Research in Mathematics, Section 9, UCLA
-	* Math151A: Applied Numerical Methods I, Sections 1&2, UCLA 
+	* Math151A: Applied Numerical Methods I, Sections 1 2, UCLA 
 * Winter 2021
 	* Math270C: Computational Linear Algebra (Graduate Level), UCLA 
 * Fall 2020
