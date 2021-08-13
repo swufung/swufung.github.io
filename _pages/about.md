@@ -13,7 +13,8 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 Upcoming Talks
 ======
 <!-- * 08/24/2021 [AMS Sectional Meeting: Special Session on Theoretical and Applied perspectives in Machine Learning](http://www.ams.org/meetings/sectional/2283_progfull.html) -->
-* 10/12/2021 [CU-Boulder Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/)
+* 09/10/2021 [Applied Mathematics and Statistics Colloquium](https://ams.mines.edu/colloquia/), Colorado School of Mines.
+* 10/12/2021 [Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/), University of Colorado, Boulder.
 
 
 Recent News
