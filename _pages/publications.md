@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints/Submitted Articles"
 permalink: /publications/
 author_profile: true
 ---
@@ -18,8 +18,6 @@ author_profile: true
 
  
 <!-- invited (i) and contributed (c) talks -->
-Preprints/Submitted Articles
-======
 1. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
 
 2. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), arXiv:2104.14090. 2021 
