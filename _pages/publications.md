@@ -18,15 +18,16 @@ author_profile: true
 
 
 <!-- invited (i) and contributed (c) talks -->
-1. Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), arXiv:2109.01089
+1.  Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), arXiv:2109.01089
+2. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
 
-2. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), arXiv:2104.14090. 2021
+3. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), arXiv:2104.14090. 2021
 
-3. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021
+4. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021
 
-4. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [Fixed Point Networks: Implicit Depth Models with Jacobian-Free Backprop](https://arxiv.org/abs/2103.12803), arXiv:2103.12803. 2021
+5. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [Fixed Point Networks: Implicit Depth Models with Jacobian-Free Backprop](https://arxiv.org/abs/2103.12803), arXiv:2103.12803. 2021
 
-5. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), arXiv:2008.02200. 2020
+6. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), arXiv:2008.02200. 2020
 
 
 Published/Accepted Articles
