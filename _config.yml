@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor of Applied Mathematics"
   location         : "Golden, CO"
   employer         : Colorado School of Mines
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=GN6Erl8AAAAJ&hl=en"
   email            : "swufung@mines.edu"
   researchgate     : "https://www.researchgate.net/profile/Samy-Wu-Fung-2"
@@ -261,14 +261,14 @@ timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
