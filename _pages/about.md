@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](https://www.mathcs.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning. 
+I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](https://www.mathcs.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
 
 Upcoming Talks
 ======
@@ -27,6 +27,7 @@ Select Publications
 
 Recent News
 ======
+* 09/2021: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) is out. Thanks to Jianping Ye and Caleb Wan for all the hard work and collaboration.
 * 06/2021: Our paper [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639) has been accepted by SIAM Journal on Scientific Computing (SISC). Thanks to Kelvin Kan and Lars Ruthotto for the collaboration.
 * 06/2021: Our draft [Learn to Predict Equilibria via Fixed Point Networks](http://arxiv.org/abs/2106.00906) is out. Thanks to Howard Heaton, Daniel McKenzie, Qiuwei Li, Stanley Osher, and Wotao Yin for the collaboration.
 * 04/2021: Our draft [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) is out. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
