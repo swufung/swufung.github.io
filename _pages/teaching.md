@@ -5,15 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Fall 2021
+	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
+	* CSCI499: Independent Study, Colorado School of Mines
 * Spring 2021
 	* Math199: Directed Undergraduate Research in Mathematics, Section 9, UCLA
-	* Math151A: Applied Numerical Methods I, Sections 1 2, UCLA 
+	* Math151A: Applied Numerical Methods I, Sections 1 2, UCLA
 * Winter 2021
-	* Math270C: Computational Linear Algebra (Graduate Level), UCLA 
+	* Math270C: Computational Linear Algebra (Graduate Level), UCLA
 * Fall 2020
 	* Math151B: Applied Numerical Methods II Section 1, UCLA
 * Spring 2020
-	* Math151A: Applied Numerical Methods I, Sections 1&2, UCLA 
+	* Math151A: Applied Numerical Methods I, Sections 1&2, UCLA
 * Winter 2020
 	* Math151B: Applied Numerical Methods II Section 1, UCLA
 * Fall 2019

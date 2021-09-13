@@ -32,7 +32,7 @@ author_profile: true
 
 Published/Accepted Articles
 ======
-1. Kan K, Wu Fung S, Ruthotto L. [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639), SIAM Journal on Scientific Computing, accepted. 2021
+1. Kan K, Wu Fung S, Ruthotto L. [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639), SIAM Journal on Scientific Computing, 0-0, pp. S704-S726. 2021
 
 2. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach Applied to Multi-Agent Optimal Control](https://arxiv.org/abs/2011.04757), European Control Conference 2021 (ECC21), accepted. 2021
 
