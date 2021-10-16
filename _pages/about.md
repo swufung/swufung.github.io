@@ -15,7 +15,7 @@ Upcoming Talks
 <!-- * 08/24/2021 [AMS Sectional Meeting: SpecialM Session on Theoretical and Applied perspectives in Machine Learning](http://www.ams.org/meetings/sectional/2283_progfull.html) -->
 <!-- * 09/10/2021 [Applied Mathematics and Statistics Colloquium](https://ams.mines.edu/colloquia/), Colorado School of Mines. -->
 <!-- * 10/08/2021 [AMS Research Open House](https://ams.mines.edu/colloquia/), Colorado School of Mines -->
-* 10/12/2021 [Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/), University of Colorado, Boulder.
+<!-- * 10/12/2021 [Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/), University of Colorado, Boulder. -->
 * 10/20/2021 [PDE and Applied Math Seminar](https://mathdept.ucr.edu/events/weekly-seminars), University of California, Riverside
 * 10/23/2021 [AMS Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2283_progfull.html).
 
@@ -29,6 +29,7 @@ Select Publications
 
 Recent News
 ======
+* 10/2021: Our Draft [Fesibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) has been accepted by Fixed Point Theory and Algorithms for Sciences and Engineering. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
 * 09/2021: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) is out. Thanks to Jianping Ye and Caleb Wan for all the hard work and collaboration.
 * 06/2021: Our paper [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639) has been accepted by SIAM Journal on Scientific Computing (SISC). Thanks to Kelvin Kan and Lars Ruthotto for the collaboration.
 * 06/2021: Our draft [Learn to Predict Equilibria via Fixed Point Networks](http://arxiv.org/abs/2106.00906) is out. Thanks to Howard Heaton, Daniel McKenzie, Qiuwei Li, Stanley Osher, and Wotao Yin for the collaboration.
