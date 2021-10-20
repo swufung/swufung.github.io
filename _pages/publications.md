@@ -23,7 +23,7 @@ author_profile: true
 
 3. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021
 
-2. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [Fixed Point Networks: Implicit Depth Models with Jacobian-Free Backprop](https://arxiv.org/abs/2103.12803), arXiv:2103.12803. 2021
+2. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), arXiv:2103.12803. 2021
 
 1. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), arXiv:2008.02200. 2020
 
