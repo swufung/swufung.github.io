@@ -18,7 +18,7 @@ author_profile: true
 
  <!-- News
  ====== -->
-* 10/2021: Mines Applied Math and Statistics is Hiring! More information can be found [here](https://jobs.mines.edu/cw/en-us/job/495281?&lApplicationSubSourceID=11250).
+ * 10/2021: Mines Applied Math and Statistics is Hiring! More information can be found [here](https://jobs.mines.edu/cw/en-us/job/495281?&lApplicationSubSourceID=11250).
  * 10/2021: Our Draft [Fesibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) has been accepted by Fixed Point Theory and Algorithms for Sciences and Engineering. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
  * 09/2021: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) is out. Thanks to Jianping Ye and Caleb Wan for all the hard work and collaboration.
  * 06/2021: Our paper [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639) has been accepted by SIAM Journal on Scientific Computing (SISC). Thanks to Kelvin Kan and Lars Ruthotto for the collaboration.
