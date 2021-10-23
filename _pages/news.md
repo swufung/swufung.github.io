@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "News"
+title:
 permalink: /news/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 <!-- {% if site.talkmap_link == true %}
