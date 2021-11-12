@@ -32,7 +32,7 @@ Published/Accepted Articles
 ======
 10. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), Fixed Point Theory and Algorithms for Sciences and Engineering, accepted. 2021
 
-9. Kan K, Wu Fung S, Ruthotto L. [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://epubs.siam.org/doi/abs/10.1137/20M1341428), SIAM Journal on Scientific Computing, 0-0, pp. S704-S726. 2021
+9. Kan K, Wu Fung S, Ruthotto L. [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://epubs.siam.org/doi/abs/10.1137/20M1341428), SIAM Journal on Scientific Computing, 43(5), pp. S704-S726. 2021
 
 8. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach Applied to Multi-Agent Optimal Control](https://arxiv.org/abs/2011.04757), European Control Conference 2021 (ECC21), accepted. 2021
 
