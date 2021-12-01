@@ -31,7 +31,7 @@ News
 
 Select Publications
 ======
-* Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), arXiv:2103.12803. 2021
+* Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), 36th AAAI Conference on Artificial Intelligence, accepted. 2022
 * Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
 * Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
 * Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
