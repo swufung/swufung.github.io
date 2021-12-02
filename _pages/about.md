@@ -14,7 +14,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 News
 ======
-* 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 2022 AAAI conference. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
+* 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
 * 10/2021: Mines Applied Math and Statistics is hiring a tenure-track faculty! More information can be found [here](https://jobs.mines.edu/cw/en-us/job/495281?&lApplicationSubSourceID=11250).
 * 10/2021: Our draft [Fesibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) has been accepted by Fixed Point Theory and Algorithms for Sciences and Engineering. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
 * 09/2021: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) is out. Thanks to Jianping Ye and Caleb Wan for all the hard work and collaboration.
