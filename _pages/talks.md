@@ -15,9 +15,11 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
  -->
-
 <!-- invited (i) and contributed (c) talks -->
+* Efficient Training and Design of Implicit Networks with Applications in Contextual Games
+	* Center for Research in Signals and Networks, Colorado School of Mines. December 10, 2021.
 * Efficient Training of Infinite-Depth Neural Networks via Jacobian-Free Backpropagation
+	* Center for Wave Phenomena Seminar, Colorado School of Mines. December 6, 2021 (i)
 	* AMS Fall Western Sectional Meeting. October 23, 2021 (i)
 	* PDE and Applied Math Seminar University of California, Riverside. October 20, 2021 (i)
 	* Statistics, Optimization and Machine Learning Seminar, University of Colorado, Boulder. October 12, 2021 (i)

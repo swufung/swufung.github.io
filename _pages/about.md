@@ -12,20 +12,23 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 I am always looking for self-motivated students working in the aforementioned areas. Send me an email if you are interested.
 
-Upcoming Talks
+<!-- Upcoming Talks
 ======
 * 12/06/2021 [Center for Wave Phenomena Seminar, Colorado School of Mines](https://cwp.mines.edu/seminar/)
-* 12/10/2021 Center for Research in Signals and Networks, Colorado School of Mines
+* 12/10/2021 Center for Research in Signals and Networks, Colorado School of Mines -->
 
-News
+Recent News
 ======
+* 12/2021: I will be participating in the [High Dimensional Hamilton-Jacobi PDEs Reunion Program](http://www.ipam.ucla.edu/programs/long-programs/high-dimensional-hamilton-jacobi-pdes/?tab=activities) at IPAM from Jan 5 - 21.
 * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
-* 12/2021: I was awarded the Open Access Mini Grant Award at Colorado School of Mines. This grant will be used to support article processing charges in future publications.
-* 10/2021: Mines Applied Math and Statistics is hiring a tenure-track faculty! More information can be found [here](https://jobs.mines.edu/cw/en-us/job/495281?&lApplicationSubSourceID=11250).
-* 10/2021: Our draft [Fesibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) has been accepted by Fixed Point Theory and Algorithms for Sciences and Engineering. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
-* 09/2021: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) is out. Thanks to Jianping Ye and Caleb Wan for all the hard work and collaboration.
-* 06/2021: Our paper [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://arxiv.org/abs/2005.13639) has been accepted by SIAM Journal on Scientific Computing (SISC). Thanks to Kelvin Kan and Lars Ruthotto for the collaboration.
-* 06/2021: Our draft [Learn to Predict Equilibria via Fixed Point Networks](http://arxiv.org/abs/2106.00906) is out. Thanks to Howard Heaton, Daniel McKenzie, Qiuwei Li, Stanley Osher, and Wotao Yin for the collaboration.
+
+Select Publications
+======
+* Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
+* Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
+* Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
+* Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
+* Ruthotto L, Osher S, Li W, Nurbekyan L, Wu Fung S. [A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems](https://www.pnas.org/content/117/17/9183), Proceedings of the National Academy of Sciences, 117(17), 9183-9193. 2020
 
 <!-- Upcoming Talks
 ======
@@ -35,11 +38,3 @@ News
 <!-- * 10/12/2021 [Statistics, Optimization and Machine Learning Seminar](https://sites.google.com/colorado.edu/statoptml/), University of Colorado, Boulder. -->
 <!-- * 10/20/2021 [PDE and Applied Math Seminar](https://mathdept.ucr.edu/events/weekly-seminars), University of California, Riverside -->
 <!-- * 10/23/2021 [AMS Fall Western Sectional Meeting](https://www.ams.org/meetings/sectional/2283_progfull.html). -->
-
-Select Publications
-======
-* Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
-* Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
-* Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
-* Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
-* Ruthotto L, Osher S, Li W, Nurbekyan L, Wu Fung S. [A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems](https://www.pnas.org/content/117/17/9183), Proceedings of the National Academy of Sciences, 117(17), 9183-9193. 2020
