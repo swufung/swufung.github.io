@@ -21,7 +21,7 @@ Recent News
 ======
 * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
 * 12/2021: I will be participating in the [High Dimensional Hamilton-Jacobi PDEs Reunion Program](http://www.ipam.ucla.edu/programs/long-programs/high-dimensional-hamilton-jacobi-pdes/?tab=activities) at IPAM from Jan 5 - 21.
-* 12/2021: Our draft [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200#:~:text=Under%20standard%20assumptions%2C%20we%20prove,but%20now%20with%20theoretical%20guarantees.) has been accepted by the SIAM Journal on Mathematics of Data Sciences. Thanks to Howard Heaton, Alex Lin, Stan Osher, and Wotao Yin for the collaboration.
+* 12/2021: Our draft [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200#:~:text=Under%20standard%20assumptions%2C%20we%20prove,but%20now%20with%20theoretical%20guarantees.) has been accepted by the SIAM Journal on Mathematics of Data Science. Thanks to Howard Heaton, Alex Lin, Stan Osher, and Wotao Yin for the collaboration.
 
 Select Publications
 ======
