@@ -18,16 +18,18 @@ author_profile: true
 
 
 <!-- invited (i) and contributed (c) talks -->
-4.  Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), arXiv:2109.01089
-3. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
+3.  Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), arXiv:2109.01089
+2. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
 
-2. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021
+1. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021
 
-1. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), arXiv:2008.02200. 2020
+<!-- 1. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), arXiv:2008.02200. 2020 -->
 
 
 Published/Accepted Articles
 ======
+12. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), SIAM Journal on Mathematics of Data Science, accepted. 2022.
+
 11. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
 
 10. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), Fixed Point Theory and Algorithms for Sciences and Engineering, 21. 2021
