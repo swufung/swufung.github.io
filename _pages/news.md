@@ -18,7 +18,13 @@ author_profile: true
 
  <!-- News
  ====== -->
- * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
+ * 02/2022: I have been awarded the [MGB-SIAM Early Career Fellowship](https://www.siam.org/students-education/programs-initiatives/mgb-siam-early-career-fellowship).
+ * 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration.
+ * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration. Here is a video preview
+ <iframe src="https://player.vimeo.com/video/669820980?h=9ca3363edb" width="550" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+ <!-- <p><a href="https://vimeo.com/669820980">2022-AAAI-JFB-Trailer</a> from <a href="https://vimeo.com/typal">Typal LLC</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
+ * 12/2021: I will be participating in the [High Dimensional Hamilton-Jacobi PDEs Reunion Program](http://www.ipam.ucla.edu/programs/long-programs/high-dimensional-hamilton-jacobi-pdes/?tab=activities) at IPAM from Jan 5 - 21.
+ * 12/2021: Our draft [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200#:~:text=Under%20standard%20assumptions%2C%20we%20prove,but%20now%20with%20theoretical%20guarantees.) has been accepted by the SIAM Journal on Mathematics of Data Science. Thanks to Howard Heaton, Alex Lin, Stan Osher, and Wotao Yin for the collaboration.
  * 12/2021: I was awarded the Open Access Mini Grant Award at Colorado School of Mines. This grant will be used to support article processing charges in future publications.
  * 10/2021: Mines Applied Math and Statistics is Hiring! More information can be found [here](https://jobs.mines.edu/cw/en-us/job/495281?&lApplicationSubSourceID=11250).
  * 10/2021: Our Draft [Fesibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090) has been accepted by Fixed Point Theory and Algorithms for Sciences and Engineering. Thanks to Howard Heaton, Aviv Gibali, and Wotao Yin for the collaboration.
