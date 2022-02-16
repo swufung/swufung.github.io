@@ -19,7 +19,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
-* 02/2022: I have been awarded the [MGB-SIAM Early Career Fellowship](https://www.siam.org/students-education/programs-initiatives/mgb-siam-early-career-fellowship).
+<!-- * 02/2022: I have been awarded the [MGB-SIAM Early Career Fellowship](https://www.siam.org/students-education/programs-initiatives/mgb-siam-early-career-fellowship). -->
 * 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration.
 * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration. Here is a video preview
 <iframe src="https://player.vimeo.com/video/669820980?h=9ca3363edb" width="550" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
