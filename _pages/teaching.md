@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Spring 2022
+	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
 * Fall 2021
 	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
 	* CSCI499: Independent Study, Colorado School of Mines
