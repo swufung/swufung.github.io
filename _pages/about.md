@@ -20,11 +20,13 @@ I am always looking for self-motivated students working in the aforementioned ar
 Recent News
 ======
 <!-- * 02/2022: I have been awarded the [MGB-SIAM Early Career Fellowship](https://www.siam.org/students-education/programs-initiatives/mgb-siam-early-career-fellowship). -->
-* 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) is out. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration.
+* 04/2022: Our draft [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) is out. Thanks for Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
+* 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) has been accepted by the Journal of Computational Physics. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration.
 * 02/2022: Our draft [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
 * 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration.
-* 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration. Here is a video preview
-<iframe src="https://player.vimeo.com/video/669820980?h=9ca3363edb" width="550" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+* 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration.
+<!-- Here is a video preview -->
+<!-- <iframe src="https://player.vimeo.com/video/669820980?h=9ca3363edb" width="550" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 <!-- <p><a href="https://vimeo.com/669820980">2022-AAAI-JFB-Trailer</a> from <a href="https://vimeo.com/typal">Typal LLC</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
 * 12/2021: I will be participating in the [High Dimensional Hamilton-Jacobi PDEs Reunion Program](http://www.ipam.ucla.edu/programs/long-programs/high-dimensional-hamilton-jacobi-pdes/?tab=activities) at IPAM from Jan 5 - 21.
 * 12/2021: Our draft [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200#:~:text=Under%20standard%20assumptions%2C%20we%20prove,but%20now%20with%20theoretical%20guarantees.) has been accepted by the SIAM Journal on Mathematics of Data Science. Thanks to Howard Heaton, Alex Lin, Stan Osher, and Wotao Yin for the collaboration.
@@ -36,6 +38,13 @@ Select Publications
 * Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
 * Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
 * Ruthotto L, Osher S, Li W, Nurbekyan L, Wu Fung S. [A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems](https://www.pnas.org/content/117/17/9183), Proceedings of the National Academy of Sciences, 117(17), 9183-9193. 2020
+
+<!-- Team
+======
+* Alexander Vidal, 4th year AMS PhD student
+* Michael Ivanitsky, 2nd year AMS PhD student
+* Soraya Terrab, 3rd year AMS PhD student
+* Manuel Alejandro Jaimes Caballero, 3rd year Geophysics PhD student -->
 
 <!-- Upcoming Talks
 ======

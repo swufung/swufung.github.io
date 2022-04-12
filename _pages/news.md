@@ -18,6 +18,7 @@ author_profile: true
 
  <!-- News
  ====== -->
+ * 04/2022: Our draft [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) is out. Thanks for Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
  * 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) is out. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration.
  * 02/2022: Our draft [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
  * 02/2022: I have been awarded the [MGB-SIAM Early Career Fellowship](https://www.siam.org/students-education/programs-initiatives/mgb-siam-early-career-fellowship).
