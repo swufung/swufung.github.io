@@ -16,8 +16,14 @@ author_profile: true
 {% endfor %}
  -->
 <!-- invited (i) and contributed (c) talks -->
+* Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs
+	* Optimal Transport and Mean Field Game Seminar at University of South Carolina. April 7, 2022 (i)
+* A Deep Learning Approach for Real-Time High-Dimensional Optimal Control
+	* Hamilton-Jacobi PDEs Reunion Conference I, at the Institute for Pure and Applied Mathematics, Los Angeles, California, January 13, 2022 (i)
+	* Math Club/SIAM Student Chapter, Colorado School of Mines. March 16, 2022 (i)
+	* Center for Research in Signals and Networks Seminar, Colorado School of Mines. February 18, 2022 (i)
 * Efficient Training and Design of Implicit Networks with Applications in Contextual Games
-	* Center for Research in Signals and Networks, Colorado School of Mines. December 10, 2021.
+	* Center for Research in Signals and Networks, Colorado School of Mines. December 10, 2021 (i)
 * Efficient Training of Infinite-Depth Neural Networks via Jacobian-Free Backpropagation
 	* Center for Wave Phenomena Seminar, Colorado School of Mines. December 6, 2021 (i)
 	* AMS Fall Western Sectional Meeting. October 23, 2021 (i)
