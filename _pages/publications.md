@@ -35,10 +35,9 @@ Published/Accepted Articles
 15. Agrawal A, Lee W, Wu Fung S, Nurbekyan L. [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529), Journal of Computational Physics, accepted. 2022
 14. Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), Journal of Applied and Numerical Optimization, accepted. 2022
 13. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), IEEE Transactions on Control Systems Technology, accepted. 2022
-12. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://arxiv.org/abs/2008.02200), SIAM Journal on Mathematics of Data Science, accepted. 2022.
+12. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
 
-11. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
-
+11. Heaton H, Wu Fung S, Lin AT, Osher S, Yin W. [Wasserstein-based Projections with Applications to Inverse Problems](https://epubs.siam.org/doi/10.1137/20M1376790), SIAM Journal on Mathematics of Data Science, 40(2), 581-603, 2022
 10. Heaton H, Wu Fung S, Gibali A, Yin W. [Feasibility-based Fixed Point Networks](https://arxiv.org/abs/2104.14090), Fixed Point Theory and Algorithms for Sciences and Engineering, 21. 2021
 
 9. Kan K, Wu Fung S, Ruthotto L. [PNKH-B: A Projected Newton-Krylov Method for Large-Scale Bound-Constrained Optimization](https://epubs.siam.org/doi/abs/10.1137/20M1341428), SIAM Journal on Scientific Computing, 43(5), pp. S704-S726. 2021
