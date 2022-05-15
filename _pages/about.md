@@ -24,8 +24,8 @@ Recent News
 * 04/2022: Our draft [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) is out. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
 * 04/2022: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) has been accepted by the Journal of Applied and Numerical Optimization. Thanks to Jianping Ye and Caleb Wan for the collaboration.
 * 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) has been accepted by the Journal of Computational Physics. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration.
-* 02/2022: Our draft [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
-* 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration.
+<!-- * 02/2022: Our draft [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) is out. Thanks to Howard Heaton and Stan Osher for the collaboration. -->
+<!-- * 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration. -->
 <!-- * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration. -->
 <!-- Here is a video preview -->
 <!-- <iframe src="https://player.vimeo.com/video/669820980?h=9ca3363edb" width="550" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
@@ -36,6 +36,7 @@ Recent News
 Select Publications
 ======
 * Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, accepted. 2022
+* Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022
 * Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
 * Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
 * Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
