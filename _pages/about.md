@@ -20,7 +20,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 Recent News
 ======
 *
-* 07/21/2022: It's been a great summer working at the [2022 Emory REU/RET Computational Mathematics for Data Science on Model Meets Data](http://www.math.emory.edu/site/cmds-reuret/summer2022/). Congratulations to Linghai Liu, Lisa Zhou, and Allen Tong (left to right) on a successful REU experience and poster presentation.
+* 07/21/2022: It's been a great summer working at the [2022 Emory REU/RET Computational Mathematics for Data Science on Model Meets Data](http://www.math.emory.edu/site/cmds-reuret/summer2022/). Congratulations to Linghai Liu, Lisa Zhou, and Allen Tong (left to right) on a successful REU and poster presentation on implicit deep learning and inverse problems.
 ![](team_jfb_poster.jpg)
 * 05/2022: Our draft [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) is out. Thanks to Howard Heaton for the collaboration.
 * 04/2022: I am humbled to receive the inaugural [2022 MGB-SIAM Early Career Fellowship](https://sinews.siam.org/Details-Page/siam-announces-the-2022-class-of-mgb-siam-early-career-fellows).
