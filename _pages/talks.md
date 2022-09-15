@@ -17,6 +17,8 @@ author_profile: true
  -->
 <!-- invited (i) and contributed (c) talks -->
 * Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs
+	* Early Career Math Colloquium at The University of Arizona. September 21, 2022 (i)
+	* Level Set Collective Seminar, Department of Mathematics, UCLA, Los Angeles, Ca. September 20, 2022 (i)
 	* Optimal Transport and Mean Field Game Seminar at University of South Carolina. April 7, 2022 (i)
 * A Deep Learning Approach for Real-Time High-Dimensional Optimal Control
 	* Hamilton-Jacobi PDEs Reunion Conference I, at the Institute for Pure and Applied Mathematics, Los Angeles, California, January 13, 2022 (i)
