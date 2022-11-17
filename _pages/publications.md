@@ -32,7 +32,7 @@ author_profile: true
 
 Published/Accepted Articles
 ======
-17. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), arXiv:2204.04851. 2022
+17. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), Inverse Problems, accepted. 2022
 16. Heaton H, Wu Fung S, Osher S. [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014), Communications in Applied Mathematics and Computation, accepted. 2022
 15. Agrawal A, Lee W, Wu Fung S, Nurbekyan L. [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529), Journal of Computational Physics, 459, pp. 111136. 2022
 14. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), IEEE Transactions on Control Systems Technology, accepted. 2022
