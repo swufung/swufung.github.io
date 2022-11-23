@@ -19,8 +19,8 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
-* 11/2022: Our paper on [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
-* 11/2022: Our paper on [Global Solutions to Nonconvex Problems via Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) has been accepted by the journal Communications on Applied Mathematics and Computation. Thanks to Howard Heaton and Stanley Osher for the collaboration.
+* 11/2022: Our paper [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
+* 11/2022: Our paper [Global Solutions to Nonconvex Problems via Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) has been accepted by the journal Communications on Applied Mathematics and Computation. Thanks to Howard Heaton and Stanley Osher for the collaboration.
 * 07/21/2022: It's been a great summer working at the [2022 Emory Computational Mathematics for Data Science REU/RET on Model Meets Data](http://www.math.emory.edu/site/cmds-reuret/summer2022/). Congratulations to Linghai Liu, Lisa Zhou, and Allen Tong (left to right) on a successful REU and poster presentation on implicit deep learning and inverse problems.
 ![](team_jfb_poster.jpg)
 * 05/2022: Our draft [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) is out. Thanks to Howard Heaton for the collaboration.
