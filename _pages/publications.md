@@ -18,12 +18,13 @@ author_profile: true
 
 
 <!-- invited (i) and contributed (c) talks -->
-1. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022
+1. Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), arXiv:2211.12997. 2022
+2. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022
 <!-- 2. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), arXiv:2204.04851. 2022 -->
 <!-- 2. Agrawal A, Lee W, Wu Fung S, Nurbekyan L. [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529), arXiv:2202.12529. 2022 -->
 <!-- 3. Heaton H, Wu Fung S, Osher S. [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014), arXiv:2202.11014. 2022 -->
 <!-- 4. Ye J, Wan C, Wu Fung S. [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089), arXiv:2109.01089. 2022 -->
-2. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
+3. Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906), arXiv:2106.00906. 2021
 
 <!-- 3. Onken D, Nurbekyan L, Li X, Wu FunMg S, Osher S, Ruthotto L. [A Neural Network Approach for High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), arXiv:2104.03270. 2021 -->
 
