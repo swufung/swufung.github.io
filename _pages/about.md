@@ -19,6 +19,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
+* 11/2022: Our Draft [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) is out. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
 * 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
 * 11/2022: Our paper [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
 * 11/2022: Our paper [Global Solutions to Nonconvex Problems via Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) has been accepted by the journal Communications on Applied Mathematics and Computation. Thanks to Howard Heaton and Stanley Osher for the collaboration.
