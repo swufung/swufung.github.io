@@ -19,8 +19,10 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
+* 12/2022: Our [SIAM News Article on Learning to Optimize](https://sinews.siam.org/Details-Page/learning-to-optimize-where-deep-learning-meets-optimization-and-inverse-problems) is out. Thanks to Daniel McKenzie and Wotao Yin for the collaboration. 
 * 11/2022: Our Draft [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) is out. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
-* 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
+* 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration. Below is a video of our work
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_H2dXZsgHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * 11/2022: Our paper [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
 * 11/2022: Our paper [Global Solutions to Nonconvex Problems via Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) has been accepted by the journal Communications on Applied Mathematics and Computation. Thanks to Howard Heaton and Stanley Osher for the collaboration.
 * 07/21/2022: It's been a great summer working at the [2022 Emory Computational Mathematics for Data Science REU/RET on Model Meets Data](http://www.math.emory.edu/site/cmds-reuret/summer2022/). Congratulations to Linghai Liu, Lisa Zhou, and Allen Tong (left to right) on a successful REU and poster presentation on implicit deep learning and inverse problems.
