@@ -1,4 +1,4 @@
-Â---
+---
 permalink: /
 title: "About"
 excerpt: "About me"
