@@ -36,7 +36,7 @@ with Three-Operator Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.133
 
 Published/Accepted Articles
 ======
-18. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757), Scientific Reports, accepted. 2023Â
+18. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757), Scientific Reports, accepted. 2023
 17. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), Inverse Problems,  39(1), 014001. 2022
 16. Heaton H, Wu Fung S, Osher S. [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014), Communications in Applied Mathematics and Computation, accepted. 2022
 15. Agrawal A, Lee W, Wu Fung S, Nurbekyan L. [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529), Journal of Computational Physics, 459, pp. 111136. 2022

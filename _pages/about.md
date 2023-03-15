@@ -19,7 +19,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
-* 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) has been accepted by Scientific Reports. Thanks toÂ Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
+* 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) has been accepted by Scientific Reports. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
 * 02/2023: Our draft [Faster Predict-and-Optimize
 with Three-Operator Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
 * 12/2022: Our [SIAM News Article on Learning to Optimize](https://sinews.siam.org/Details-Page/learning-to-optimize-where-deep-learning-meets-optimization-and-inverse-problems) is out. Thanks to Daniel McKenzie and Wotao Yin for the collaboration.
