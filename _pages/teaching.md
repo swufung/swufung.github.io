@@ -4,7 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+* Spring 2023:
+	* Math598: Numerical Optimization, Colorado School of Mines
+* Fall 2022:
+	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
 * Spring 2022
 	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
 * Fall 2021
