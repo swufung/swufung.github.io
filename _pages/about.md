@@ -19,7 +19,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
-* 05/2023: It was a great day to have the Mines Optimization and Deep Learning (MODL) group together.
+* 05/2023: It was a great day to have the Mines Optimization and Deep Learning group together.
 ![](MinesOptDL.png)
 * 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y) has been accepted by Scientific Reports. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
 * 03/2023: Our paper [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) has been accepted by the Proceedings of the National Academy of Sciences. Thanks to Howard Heaton and Stan Osher for the collaboration.
