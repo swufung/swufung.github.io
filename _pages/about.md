@@ -19,6 +19,8 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
+* 05/2023: It was a great day to have the Mines Optimization and Deep Learning (MODL) group together.
+![](MinesOptDL)
 * 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y) has been accepted by Scientific Reports. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
 * 03/2023: Our paper [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) has been accepted by the Proceedings of the National Academy of Sciences. Thanks to Howard Heaton and Stan Osher for the collaboration.
 * 02/2023: Our draft [Faster Predict-and-Optimize
@@ -48,7 +50,7 @@ with Three-Operator Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks 
 
 Select Publications
 ======
-* Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), arXiv:2211.12997. 2022
+* Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), Proceedings of the National Academy of Sciences, accepted. 2023
 * Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, 36(6), 6648-6656. 2022
 * Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022
 * Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
