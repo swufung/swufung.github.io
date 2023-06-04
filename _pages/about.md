@@ -19,6 +19,7 @@ I am always looking for self-motivated students working in the aforementioned ar
 
 Recent News
 ======
+* 06/2023: Our paper, [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) has been accepted by Scientific Reports. Thanks to Howard Heaton for his collaboration.
 * 03/2023: It was a great day to have the Mines Optimization and Deep Learning group together.
 ![](MinesOptDL.png)
 * 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y) has been accepted by Scientific Reports. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
