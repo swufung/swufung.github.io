@@ -19,7 +19,7 @@ If you are a self-motivated students working in the aforementioned areas. Send m
 
 Recent News
 ======
-* 07/2023: NSF-DMS award received! This grant will help fund projects related to Learning-to-Optimize. Thanks to my colleagues and Mines for the help and support.
+* 07/2023: NSF-DMS award received! This grant will help fund our work related to Learning-to-Optimize. Thanks to my colleagues and Mines for the help and support.
 * 06/2023: Our paper, [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) has been accepted by Scientific Reports. Thanks to Howard Heaton for his collaboration.
 * 03/2023: It was a great day to have the Mines Optimization and Deep Learning group together.
 ![](MinesOptDL.png)
