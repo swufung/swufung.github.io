@@ -26,7 +26,7 @@ Recent News
 * 03/2023: Our paper [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y) has been accepted by Scientific Reports. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
 * 03/2023: Our paper [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) has been accepted by the Proceedings of the National Academy of Sciences. Thanks to Howard Heaton and Stan Osher for the collaboration.
 * 02/2023: Our draft [Faster Predict-and-Optimize
-with Three-Operator Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
+with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
 * 12/2022: Our [SIAM News Article on Learning to Optimize](https://sinews.siam.org/Details-Page/learning-to-optimize-where-deep-learning-meets-optimization-and-inverse-problems) is out. Thanks to Daniel McKenzie and Wotao Yin for the collaboration.
 <!-- * 11/2022: Our draft [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) is out. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration. -->
 <!-- * 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration. -->

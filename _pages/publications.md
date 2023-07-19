@@ -19,7 +19,7 @@ author_profile: true
 
 <!-- invited (i) and contributed (c) talks -->
 1. McKenzie D, Wu Fung S, Heaton H. [Faster Predict-and-Optimize
-with Three-Operator Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395. 2023
+with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395. 2023
 <!-- 2. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757), arXiv:2211.16757. 2022 -->
 <!-- 2. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022 -->
 <!-- 2. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), arXiv:2204.04851. 2022 -->
