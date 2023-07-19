@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) and the [Department of Computer Science](https://cs.mines.edu/) at Colorado School of Mines. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
 
-If you are a self-motivated students working in the aforementioned areas. Send me an email if you are interested.
+If you are a self-motivated student interested in working in the aforementioned areas, send me an email.
 
 <!-- Upcoming Talks
 ======
