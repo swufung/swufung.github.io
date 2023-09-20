@@ -74,14 +74,14 @@ social:
 # Analytics
 analytics:
   provider               :  "custom" # "google-universal" # false (default), "google", "google-universal", "custom"
-  google:           
+  google:
     tracking_id          :
 
 
 # Site Author
 author:
   name             : "Samy Wu Fung"
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   bio              : "Assistant Professor of Applied Mathematics"
   location         : "Golden, CO"
   employer         : Colorado School of Mines
