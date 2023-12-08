@@ -20,7 +20,8 @@ If you are a self-motivated student interested in working in the aforementioned 
 
 Recent News
 ======
-* 09/2023: Our preprint [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498) is out. Thanks to Michael Ivanitskiy and everyone else involved for the collaboration, and to AI Safety Camp for the support. 
+* 12/2023: Our draft [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) is has been accepted by the in NeurIPS Workshop on Unifying Representations in Neural Models (UniReps). Thanks to Michael Ivanitskiy, Alex Spies, Tilman Räuker and everyone else involved for the collaboration.
+* 09/2023: Our preprint [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498) is out. Thanks to Michael Ivanitskiy and everyone else involved for the collaboration, and to AI Safety Camp for the support.
 * 07/2023: [NSF-DMS award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309810&HistoricalAwards=false) received! This grant will help fund our work on learning to optimize. Thanks to my colleagues and Mines for the help and support.
 * 06/2023: Our paper, [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) has been accepted by Scientific Reports. Thanks to Howard Heaton for his collaboration.
 * 03/2023: It was a great day to have the Mines Optimization and Deep Learning group together.
@@ -42,7 +43,7 @@ with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Da
 * 04/2022: I am humbled to receive the inaugural [2022 MGB-SIAM Early Career Fellowship](https://sinews.siam.org/Details-Page/siam-announces-the-2022-class-of-mgb-siam-early-career-fellows).
 * 04/2022: Our draft [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) is out. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
 * 04/2022: Our draft [Adaptive Uncertainty-Weighted ADMM for Distributed Optimization](https://arxiv.org/abs/2109.01089) has been accepted by the Journal of Applied and Numerical Optimization. Thanks to Jianping Ye and Caleb Wan for the collaboration.
-* 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) has been accepted by the Journal of Computational Physics. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration. -->
+* 02/2022: Our draft [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529) has been accepted by the Journal of Computational Physics. Thanks to Sudhanshu Agrawal, Wonjun Lee, and Levon Nurbekyan for the collaboration.
 <!-- * 02/2022: Our draft [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) is out. Thanks to Howard Heaton and Stan Osher for the collaboration. -->
 <!-- * 02/2022: Our draft on [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270) has been accepted by IEEE Transactions on Control Systems Technology. Thanks to Derek Onken, Levon Nurbekyan, Xingjian Li, Lars Ruthotto, and Stan Osher for the collaboration. -->
 <!-- * 12/2021: Our draft [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803) has been accepted by the 36th AAAI Conference on Artificial Intelligence. Thanks to Howard Heaton, Qiuwei Li, Daniel McKenzie, Stan Osher, and Wotao Yin for the collaboration. -->

@@ -35,6 +35,7 @@ with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395. 2
 
 Published/Accepted Articles
 ======
+21. Ivanitskiy, MI, Spies AF, Räuker T, Corlouer G, Mathwin C, Quirke L, Rager C, Shah R, Valentine D, Diniz-Behn C, Katsumi I, Wu Fung S. [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566). NeurIPS Workshop on Unifying Representations in Neural Models, 2023.
 20. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), Scientific Reports, 13 (10103). 2023
 19. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y), Scientific Reports, 13 (1). 2023
 18. Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), Proceedings of the National Academy of Sciences, 120 (14), e2220469120. 2023
