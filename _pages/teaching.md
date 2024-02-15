@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* Spring 2024:
+	* Math598A/EENG521: Numerical Optimization, Colorado School of Mines
+	* MATH598B: Mathematical Foundations for Interpretability and Alignment of Large Language Models
+* Fall 2023:
+	* Math307: Intro to Scientific Computing, Section A, Colorado School of Mines
 * Spring 2023:
 	* Math598: Numerical Optimization, Colorado School of Mines
 * Fall 2022:
