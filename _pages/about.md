@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) and the [Department of Computer Science](https://cs.mines.edu/) at Colorado School of Mines.
 I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.mines.edu/optimization-and-deep-learning/) group. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
 
-If you are a self-motivated student interested in working in the aforementioned areas, send me an email.
+<!-- If you are a self-motivated student interested in working in the aforementioned areas, send me an email. -->
 
 <!-- Upcoming Talks
 ======
@@ -20,6 +20,8 @@ If you are a self-motivated student interested in working in the aforementioned 
 
 Recent News
 ======
+* 04/2024: Our draft [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906) has been accepted by SIAM Journal on Mathematics of Data Science. Thanks to Daniel McKenzie, Howard Heaton, Qiuwei Li, Wotao Yin, and Stanley Osher for the collaboration.
+* 04/2024: I am honored to receive the 2024 Laney Early Career Alumni Award.
 * 12/2023: Our draft [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) is out and has been accepted by the in NeurIPS Workshop on Unifying Representations in Neural Models (UniReps). Thanks to Michael Ivanitskiy, Alex Spies, Tilman Räuker, and everyone else involved for the collaboration.
 * 09/2023: Our preprint [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498) is out. Thanks to Michael Ivanitskiy and everyone else involved for the collaboration, and to AI Safety Camp for the support.
 * 07/2023: [NSF-DMS award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309810&HistoricalAwards=false) received! This grant will help fund our work on learning to optimize. Thanks to my colleagues and Mines for the help and support.
