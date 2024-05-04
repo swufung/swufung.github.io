@@ -35,14 +35,15 @@ with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395. 2
 
 Published/Accepted Articles
 ======
-21. Ivanitskiy, MI, Spies AF, Räuker T, Corlouer G, Mathwin C, Quirke L, Rager C, Shah R, Valentine D, Diniz-Behn C, Katsumi I, Wu Fung S. [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566). NeurIPS Workshop on Unifying Representations in Neural Models, 2023.
+22. McKenzie D, Heaton H, Li Q, Wu Fung S, W Yin, S Osher. [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906), SIAM Journal on Mathematics of Data Science, accepted, 2024
+21. Ivanitskiy MI, Spies AF, Räuker T, Corlouer G, Mathwin C, Quirke L, Rager C, Shah R, Valentine D, Diniz-Behn C, Katsumi I, Wu Fung S. [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566), NeurIPS Workshop on Unifying Representations in Neural Models, 2023.
 20. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), Scientific Reports, 13 (10103). 2023
 19. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://www.nature.com/articles/s41598-023-31521-y), Scientific Reports, 13 (1). 2023
 18. Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), Proceedings of the National Academy of Sciences, 120 (14), e2220469120. 2023
 17. Heaton H, Wu Fung S, Osher S. [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014), Communications in Applied Mathematics and Computation, 1-21. 2023
 16. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), Inverse Problems,  39(1), 014001. 2022
 15. Agrawal A, Lee W, Wu Fung S, Nurbekyan L. [Random Features for High-Dimensional Nonlocal Mean-Field Games](https://arxiv.org/abs/2202.12529), Journal of Computational Physics, 459, pp. 111136. 2022
-14. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), IEEE Transactions on Control Systems Technology, accepted. 2022
+14. Onken D, Nurbekyan L, Li X, Wu Fung S, Osher S, Ruthotto L. [A Neural Network Approach for Real-Time High-Dimensional Optimal Control](https://arxiv.org/abs/2104.03270), IEEE Transactions on Control Systems Technology, 31(1), 235-251. 2022
 
 13. Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, 36(6), 6648-6656. 2022
 
