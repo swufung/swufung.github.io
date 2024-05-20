@@ -20,8 +20,11 @@ I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.
 
 Recent News
 ======
+* 05/2024: Our draft [Kernel Expansions for High-Dimensional
+Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) is out. Thanks to Alex Vidal, Luis Tenorio, Levon Nurbekyan, and Stanley Osher for the collaboration.
 * 04/2024: Our draft [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906) has been accepted by SIAM Journal on Mathematics of Data Science. Thanks to Daniel McKenzie, Howard Heaton, Qiuwei Li, Wotao Yin, and Stanley Osher for the collaboration.
-* 04/2024: I am honored to receive the [2024 Laney Early Career Alumni Award](https://gs.emory.edu/spotlight/deans-address-2024.html).
+* 04/2024: I am honored to receive the 2024 Laney Early Career Alumni Award
+<!-- (https://gs.emory.edu/spotlight/deans-address-2024.html). -->
 * 12/2023: Our draft [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) is out and has been accepted by the in NeurIPS Workshop on Unifying Representations in Neural Models (UniReps). Thanks to Michael Ivanitskiy, Alex Spies, Tilman Räuker, and everyone else involved for the collaboration.
 * 09/2023: Our preprint [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498) is out. Thanks to Michael Ivanitskiy and everyone else involved for the collaboration, and to AI Safety Camp for the support.
 * 07/2023: [NSF-DMS award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309810&HistoricalAwards=false) received! This grant will help fund our work on learning to optimize. Thanks to my colleagues and Mines for the help and support.
