@@ -23,7 +23,7 @@ Recent News
 * 05/22/2024: Alex Vidal successfully defends his thesis and will continue his journey as a Sr. Data Scientist at Nerdwallet.
 Congratulations, Alex!
 <!-- ![](Alex_PhD_celebration.jpg) -->
-<img src="Alex_PhD_celebration.jpg" width="200" height="250">
+<img src="Alex_PhD_celebration.jpg" width="180" height="250">
 * 05/17/2024: Our draft [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) is out. Thanks to Alex Vidal, Luis Tenorio, Levon Nurbekyan, and Stanley Osher for the collaboration.
 * 04/2024: Our draft [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906) has been accepted by SIAM Journal on Mathematics of Data Science. Thanks to Daniel McKenzie, Howard Heaton, Qiuwei Li, Wotao Yin, and Stanley Osher for the collaboration.
