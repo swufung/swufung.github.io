@@ -23,7 +23,7 @@ Recent News
 * 05/22/2024: Alex Vidal successfully defends his thesis and will continue his journey as a Sr. Data Scientist at Nerdwallet.
 Congratulations, Alex!
 <!-- ![](Alex_PhD_celebration.jpg) -->
-<img src="Alex_PhD_celebration.jpg" width="180" height="250">
+<!-- <img src="Alex_PhD_celebration.jpg" width="180" height="250"> -->
 
 * 05/17/2024: Our draft [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) is out. Thanks to Alex Vidal, Luis Tenorio, Levon Nurbekyan, and Stanley Osher for the collaboration.
