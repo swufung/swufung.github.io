@@ -20,7 +20,7 @@ I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.
 
 Recent News
 ======
-* 05/22/2024: Alex Vidal on a successfully defending his thesis and will continue his journey as a Sr. Data Scientist at Nerdwallet.
+* 05/22/2024: Alex Vidal successfully defends his thesis and will continue his journey as a Sr. Data Scientist at Nerdwallet.
 Congratulations, Alex!
 <!-- ![](Alex_PhD_celebration.jpg) -->
 <img src="Alex_PhD_celebration.jpg" width="200" height="250">
