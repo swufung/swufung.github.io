@@ -20,6 +20,7 @@ I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.
 
 Recent News
 ======
+* 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for their collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!
 ![](alex_graduation.png)
