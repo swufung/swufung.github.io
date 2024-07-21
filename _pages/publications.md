@@ -22,7 +22,6 @@ author_profile: true
 2. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922). arXiv:2405.10922, 2024
 3. Ivanitskiy MI, Shah R, Spies AF, Räuker T, Valentine D, Rager C, Quirke L, Mathwin C, Corlouer G, Diniz-Behn C, Wu Fung S. [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498). arXiv:2309.10498, 2023
-4. McKenzie D, Wu Fung S, Heaton H. [Learning to Solve Integer Linear Programs with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395, 2023
 <!-- 2. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757), arXiv:2211.16757. 2022 -->
 <!-- 2. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022 -->
 <!-- 2. Chow YT, Wu Fung S, Liu S, Nurbekyan L, Osher S. [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851), arXiv:2204.04851. 2022 -->
@@ -37,6 +36,7 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 
 Published/Accepted Articles
 ======
+23. McKenzie D, Wu Fung S, Heaton H. [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395, 2023
 22. McKenzie D, Heaton H, Li Q, Wu Fung S, W Yin, S Osher. [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906), SIAM Journal on Mathematics of Data Science, accepted, 2024
 21. Ivanitskiy MI, Spies AF, Räuker T, Corlouer G, Mathwin C, Quirke L, Rager C, Shah R, Valentine D, Diniz-Behn C, Katsumi I, Wu Fung S. [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566), NeurIPS Workshop on Unifying Representations in Neural Models, 2023.
 20. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), Scientific Reports, 13 (10103). 2023
