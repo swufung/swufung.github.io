@@ -36,7 +36,7 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 
 Published/Accepted Articles
 ======
-23. McKenzie D, Wu Fung S, Heaton H. [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), arXiv:2301.13395, 2023
+23. McKenzie D, Wu Fung S, Heaton H. [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395), Transactions on Machine Learning Research, accepted, 2024
 22. McKenzie D, Heaton H, Li Q, Wu Fung S, W Yin, S Osher. [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906), SIAM Journal on Mathematics of Data Science, accepted, 2024
 21. Ivanitskiy MI, Spies AF, Räuker T, Corlouer G, Mathwin C, Quirke L, Rager C, Shah R, Valentine D, Diniz-Behn C, Katsumi I, Wu Fung S. [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566), NeurIPS Workshop on Unifying Representations in Neural Models, 2023.
 20. Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), Scientific Reports, 13 (10103). 2023

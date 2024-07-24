@@ -20,7 +20,7 @@ I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.
 
 Recent News
 ======
-* 07/19/2024: Our manuscript [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions of Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for their collaboration.
+* 07/19/2024: Our manuscript [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions on Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for their collaboration.
 * 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for their collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!
