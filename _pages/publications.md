@@ -50,7 +50,7 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 
 
 <!-- <h3>Published/Accepted Articles</h3> -->
-<h3 style="font-size: 32px;">Published/Accepted Articles</h3>
+<h3 style="font-size: 28px;">Published/Accepted Articles</h3>
 <ol start="23">
   <li>
     McKenzie D, Wu Fung S, Heaton H. <a href="https://arxiv.org/abs/2301.13395">Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting</a>, Transactions on Machine Learning Research, accepted, 2024.
