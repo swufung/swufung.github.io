@@ -5,28 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
-
-<!-- invited (i) and contributed (c) talks -->
-<!-- 1. Wu Fung S, Nurbekyan L. [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945). arXiv:2409.18945, 2024
-2. Terrab S, Wu Fung S, Ryan JK. [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193). arXiv:2408.05193, 2024
-3. Parada R, Wu Fung S, Osher S. [Fast Partial Fourier Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532). arXiv:2408.03532, 2024
-4. Tibshirani R, Wu Fung S, Heaton H, Osher S. [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003). arXiv:2406.02003, 2024
-5. Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. [Kernel Expansions for High-Dimensional
-Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922). arXiv:2405.10922, 2024
-6. Ivanitskiy MI, Shah R, Spies AF, Räuker T, Valentine D, Rager C, Quirke L, Mathwin C, Corlouer G, Diniz-Behn C, Wu Fung S. [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498). arXiv:2309.10498, 2023 -->
-
-<!-- <h3>Preprints/Submitted Articles</h3> -->
 <ol>
   <li>
     Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. arXiv:2409.18945, 2024.
@@ -49,9 +28,8 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 </ol>
 
 
-<!-- <h3>Published/Accepted Articles</h3> -->
 <h3 style="font-size: 28px;">Published/Accepted Articles</h3>
-<ol start="23">
+<ol start="1">
   <li>
     McKenzie D, Wu Fung S, Heaton H. <a href="https://arxiv.org/abs/2301.13395">Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting</a>, Transactions on Machine Learning Research, accepted, 2024.
   </li>
