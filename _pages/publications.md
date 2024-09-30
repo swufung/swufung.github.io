@@ -26,7 +26,7 @@ author_profile: true
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922). arXiv:2405.10922, 2024
 6. Ivanitskiy MI, Shah R, Spies AF, Räuker T, Valentine D, Rager C, Quirke L, Mathwin C, Corlouer G, Diniz-Behn C, Wu Fung S. [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498). arXiv:2309.10498, 2023 -->
 
-<h3>Preprints/Submitted Articles</h3>
+<!-- <h3>Preprints/Submitted Articles</h3> -->
 <ol>
   <li>
     Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. arXiv:2409.18945, 2024.
@@ -49,7 +49,8 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 </ol>
 
 
-<h3>Published/Accepted Articles</h3>
+<!-- <h3>Published/Accepted Articles</h3> -->
+<h3 style="font-size: 32px;">Published/Accepted Articles</h3>
 <ol start="23">
   <li>
     McKenzie D, Wu Fung S, Heaton H. <a href="https://arxiv.org/abs/2301.13395">Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting</a>, Transactions on Machine Learning Research, accepted, 2024.
