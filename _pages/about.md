@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) and the [Department of Computer Science](https://cs.mines.edu/) at Colorado School of Mines.
-I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.mines.edu/optimization-and-deep-learning/) group. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
+I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. I am also an affiliated faculty in the [Department of Computer Science](https://cs.mines.edu/) and am part of the [Mines Optimization and Deep Learning (MODL)](https://ams.mines.edu/optimization-and-deep-learning/) group. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
 
 <!-- If you are a self-motivated student interested in working in the aforementioned areas, send me an email. -->
 
@@ -20,8 +19,11 @@ I am also part of the [Mines Optimization and Deep Learning (MODL)](https://ams.
 
 Recent News
 ======
-* 07/19/2024: Our manuscript [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions on Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for their collaboration.
-* 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for their collaboration.
+* 00/30/2024: Our manuscript [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
+* 08/09/2024: Our manuscript [Fast Partial Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) is out. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
+* 08/07/2024: Our manuscript [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193) is out. Thanks to Soraya Terrab and Jennifer Ryan for the collaboration.
+* 07/19/2024: Our manuscript [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions on Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
+* 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!
 ![](alex_graduation.png)
