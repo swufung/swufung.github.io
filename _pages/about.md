@@ -19,10 +19,11 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
-* 09/30/2024: Our manuscript [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
-* 08/09/2024: Our manuscript [Fast Partial Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) is out. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
-* 08/07/2024: Our manuscript [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193) is out. Thanks to Soraya Terrab and Jennifer Ryan for the collaboration.
-* 07/19/2024: Our manuscript [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions on Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
+* 10/04/2024: Our draft [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) is out. Thanks to Brandon Knutson, Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
+* 09/30/2024: Our draft [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
+* 08/09/2024: Our draft [Fast Partial Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) is out. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
+* 08/07/2024: Our draft [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193) is out. Thanks to Soraya Terrab and Jennifer Ryan for the collaboration.
+* 07/19/2024: Our paper [Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) has been accepted by Transactions on Machine Learning Research. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
 * 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!

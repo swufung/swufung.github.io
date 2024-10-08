@@ -8,6 +8,10 @@ author_profile: true
 
 <ol>
   <li>
+    Knutson B, Chyba A, Ivanitskiy M, Pettyjohn J, Diniz-Behn C, Wu Fung S, McKenzie D. <a href="https://arxiv.org/abs/2410.03020">On Logical Extrapolation for Mazes with Recurrent and Implicit Networks
+</a>. arXiv:2410.03020, 2024.
+  </li>
+  <li>
     Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. arXiv:2409.18945, 2024.
   </li>
   <li>
