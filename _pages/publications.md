@@ -8,6 +8,9 @@ author_profile: true
 
 <ol>
   <li>
+    Wu Fung S, Berkels B. <a href="https://arxiv.org/abs/2410.07427">A Generalization Bound for a Family of Implicit Networks</a>. arXiv:2410.07427, 2024.
+  </li>
+  <li>
     Knutson B, Chyba A, Ivanitskiy M, Pettyjohn J, Diniz-Behn C, Wu Fung S, McKenzie D. <a href="https://arxiv.org/abs/2410.03020">On Logical Extrapolation for Mazes with Recurrent and Implicit Networks
 </a>. arXiv:2410.03020, 2024.
   </li>
