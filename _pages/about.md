@@ -73,12 +73,15 @@ with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Da
 
 Select Publications
 ======
+* Wu Fung S. Nurbekyan L. [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945). arXiv:2409.18945. 2024
+* Tibshirani R, Wu Fung S, Heaton H, Osher S. [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003), arXiv:2406.02003. 2024
+* Wu Fung S. Berkels B. [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427). arXiv: 2410.07427. 2024
 * Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), Scientific Reports, 13 (10103). 2023
 * Osher S, Heaton H, Wu Fung S. [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997), Proceedings of the National Academy of Sciences. 2023
 * Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. [JFB: Jacobian-Free Backpropagation for Implicit Networks](https://arxiv.org/abs/2103.12803), AAAI Conference on Artificial Intelligence, 36(6), 6648-6656. 2022
 <!-- * Heaton H, Wu Fung S. [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174), arXiv:2204.14174. 2022 -->
-* Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021
-* Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021
+<!-- * Heaton H, McKenzie D, Li Q, Wu Fung S, Osher S, Yin W. [Learn to Predict Equilibria via Fixed Point Networks](https://arxiv.org/abs/2106.00906). arXiv:2106.00906. 2021 -->
+<!-- * Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. [Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games](https://www.pnas.org/content/118/31/e2024713118), Proceedings of the National Academy of Sciences, 118(31). 2021 -->
 * Onken D, Wu Fung S, Li X, Ruthotto L. [OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport](https://ojs.aaai.org/index.php/AAAI/article/view/17113), AAAI Conference on Artificial Intelligence, 35(10), 9223-9232. 2021
 * Ruthotto L, Osher S, Li W, Nurbekyan L, Wu Fung S. [A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems](https://www.pnas.org/content/117/17/9183), Proceedings of the National Academy of Sciences, 117(17), 9183-9193. 2020
 
