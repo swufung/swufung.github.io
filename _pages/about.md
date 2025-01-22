@@ -21,6 +21,9 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 01/22/2025: Our works [Kernel Expansions for High-Dimensional
+Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) and [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) have been accepted by ACC 2025. Thanks to Alex Vidal and Levon Nurbekyan among others for their collaboration.
+* 13/12/2024:
 * 10/10/2024: Our draft [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) is out. Thanks to Benjamin Berkels for the collaboration.
 * 10/04/2024: Our draft [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) is out. Thanks to Brandon Knutson, Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
 * 09/30/2024: Our draft [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
