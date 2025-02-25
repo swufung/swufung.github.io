@@ -21,6 +21,7 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 02/25/2025: Our paper [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) has been accepted by JMLR. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 01/22/2025: Our works [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) and [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) have been accepted by ACC 2025. Thanks to Alex Vidal and Levon Nurbekyan among others for their collaboration.
 * 13/12/2024: Soraya Terrab successfully defends her PhD dissertation and will continue her journey as a part time Imaging Research Scientist at Ricoh. Congratulations, Soraya!

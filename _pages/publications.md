@@ -15,19 +15,10 @@ author_profile: true
 </a>. arXiv:2410.03020, 2024.
   </li>
   <li>
-    Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. arXiv:2409.18945, 2024.
-  </li>
-  <li>
     Terrab S, Wu Fung S, Ryan JK. <a href="https://arxiv.org/abs/2408.05193">A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs</a>. arXiv:2408.05193, 2024.
   </li>
   <li>
     Parada R, Wu Fung S, Osher S. <a href="https://arxiv.org/abs/2408.03532">Fast Partial Fourier Transforms for Large-Scale Ptychography</a>. arXiv:2408.03532, 2024.
-  </li>
-  <li>
-    Tibshirani R, Wu Fung S, Heaton H, Osher S. <a href="https://arxiv.org/abs/2406.02003">Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method</a>. arXiv:2406.02003, 2024.
-  </li>
-  <li>
-    Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. <a href="https://arxiv.org/abs/2405.10922">Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions</a>. arXiv:2405.10922, 2024.
   </li>
   <li>
     Ivanitskiy MI, Shah R, Spies AF, Räuker T, Valentine D, Rager C, Quirke L, Mathwin C, Corlouer G, Diniz-Behn C, Wu Fung S. <a href="https://arxiv.org/abs/2309.10498">A Configurable Library for Generating and Manipulating Maze Datasets</a>. arXiv:2309.10498, 2023.
@@ -37,6 +28,15 @@ author_profile: true
 
 <h3 style="font-size: 28px;">Published/Accepted Articles</h3>
 <ol start="1">
+  <li>
+    Tibshirani R, Wu Fung S, Heaton H, Osher S. <a href="https://arxiv.org/abs/2406.02003">Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method</a>. Journal of Machine Learning Research, 2025.
+  </li>
+  <li>
+    Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. American Control Conference, 2025.
+  </li>
+  <li>
+    Vidal A, Wu Fung S, Tenorio L, Osher S, Nurbekyan L. <a href="https://arxiv.org/abs/2405.10922">Kernel Expansions for High-Dimensional Mean-Field Control with Non-local Interactions</a>. American Control Conference, 2025.
+  </li>
   <li>
     McKenzie D, Wu Fung S, Heaton H. <a href="https://arxiv.org/abs/2301.13395">Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting</a>, Transactions on Machine Learning Research, accepted, 2024.
   </li>
