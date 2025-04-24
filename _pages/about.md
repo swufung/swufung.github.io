@@ -21,6 +21,8 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 04/24/2025: Our paper [Fast Partial Fourier Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) has been accepted by Inverse Problems and Imaging. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
+* 02/28/2025: Our draft [Recent Advances in Numerical Solutions for Hamilton-Jacobi PDEs](https://arxiv.org/abs/2502.20833) is out. Thanks to Tingwei Meng, Siting Liu, and Stanley Osher for the collaboration.
 * 02/25/2025: Our paper [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) has been accepted by JMLR. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 01/22/2025: Our works [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) and [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) have been accepted by ACC 2025. Thanks to Alex Vidal and Levon Nurbekyan among others for their collaboration.
