@@ -21,6 +21,7 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 06/02/2025: Our draft [Thinking Out of the Box: Hybrid SAT Solving by Unconstrained Continuous Optimization](https://arxiv.org/abs/2506.00674) is out. Thanks to Zhiwei Zhang, Anastasios Kyrillidis, Stanley Osher, and Moshe Vardi for the collaboration. 
 * 04/24/2025: Our paper [Fast Partial Fourier Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) has been accepted by Inverse Problems and Imaging. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
 * 02/28/2025: Our draft [Recent Advances in Numerical Solutions for Hamilton-Jacobi PDEs](https://arxiv.org/abs/2502.20833) is out. Thanks to Tingwei Meng, Siting Liu, and Stanley Osher for the collaboration.
 * 02/25/2025: Our paper [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) has been accepted by JMLR. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.

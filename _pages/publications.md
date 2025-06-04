@@ -8,6 +8,9 @@ author_profile: true
 
 <ol>
   <li>
+    Zhang Z, Wu Fung S, Kyrillidis A, Osher S, Vardi M. <a href="https://arxiv.org/abs/2506.00674">Thinking Out of the Box: Hybrid SAT Solving by Unconstrained Continuous Optimization</a>. arXiv:2506.00674, 2025.
+  </li>
+  <li>
     Wu Fung S, Berkels B. <a href="https://arxiv.org/abs/2410.07427">A Generalization Bound for a Family of Implicit Networks</a>. arXiv:2410.07427, 2024.
   </li>
   <li>
@@ -18,9 +21,6 @@ author_profile: true
     Terrab S, Wu Fung S, Ryan JK. <a href="https://arxiv.org/abs/2408.05193">A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs</a>. arXiv:2408.05193, 2024.
   </li>
   <li>
-    Parada R, Wu Fung S, Osher S. <a href="https://arxiv.org/abs/2408.03532">Fast Partial Fourier Transforms for Large-Scale Ptychography</a>. arXiv:2408.03532, 2024.
-  </li>
-  <li>
     Ivanitskiy MI, Shah R, Spies AF, Räuker T, Valentine D, Rager C, Quirke L, Mathwin C, Corlouer G, Diniz-Behn C, Wu Fung S. <a href="https://arxiv.org/abs/2309.10498">A Configurable Library for Generating and Manipulating Maze Datasets</a>. arXiv:2309.10498, 2023.
   </li>
 </ol>
@@ -28,6 +28,9 @@ author_profile: true
 
 <h3 style="font-size: 28px;">Published/Accepted Articles</h3>
 <ol start="1">
+  <li>
+    Parada R, Wu Fung S, Osher S. <a href="https://www.aimsciences.org/article/doi/10.3934/ipi.2025019">Fast Partial Fourier Transforms for Large-Scale Ptychography</a>. Inverse Problems and Imaging, 2025.
+  </li>
   <li>
     Tibshirani R, Wu Fung S, Heaton H, Osher S. <a href="https://arxiv.org/abs/2406.02003">Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method</a>. Journal of Machine Learning Research, 2025.
   </li>
