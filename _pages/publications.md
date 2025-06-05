@@ -8,6 +8,9 @@ author_profile: true
 
 <ol>
   <li>
+    Wang X, Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2506.04169">A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models</a>. arXiv:2506.04169, 2025.
+  </li>
+  <li>
     Zhang Z, Wu Fung S, Kyrillidis A, Osher S, Vardi M. <a href="https://arxiv.org/abs/2506.00674">Thinking Out of the Box: Hybrid SAT Solving by Unconstrained Continuous Optimization</a>. arXiv:2506.00674, 2025.
   </li>
   <li>
