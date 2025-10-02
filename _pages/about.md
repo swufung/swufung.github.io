@@ -21,6 +21,8 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 10/01/2025: Our draft [End-to-End Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation](https://arxiv.org/abs/2510.00359) is out. Thanks to Eric Gelphman, Deepanshu Verma, Nichola Yang, and Stanley Osher for the collaboration.
+* 09/09/2025: Our draft [A Monte Carlo Approach for Nonsmooth Convex Optimization via Proximal Splitting Algorithms](https://arxiv.org/abs/2509.07914) is out. Thanks to Nicholas Di and Eric Chi for the collaboration.
 * 06/04/2025: Our draft [A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) is out. Thanks to Melissa Wang and Levon Nurbekyan for the collaboration.
 * 06/02/2025: Our draft [Thinking Out of the Box: Hybrid SAT Solving by Unconstrained Continuous Optimization](https://arxiv.org/abs/2506.00674) is out. Thanks to Zhiwei Zhang, Anastasios Kyrillidis, Stanley Osher, and Moshe Vardi for the collaboration.
 * 04/24/2025: Our paper [Fast Partial Fourier Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) has been accepted by Inverse Problems and Imaging. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
