@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. I am also an affiliated faculty in the [Department of Computer Science](https://cs.mines.edu/) and am part of the [Mines Optimization and Deep Learning (MODL)](https://ams.mines.edu/research/optimization-and-deep-learning/) group. Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019, where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning.
+I am an Assistant Professor in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu/) at Colorado School of Mines. I am also an affiliated faculty in the [Department of Computer Science](https://cs.mines.edu/). 
+Prior to joining Mines, I was an Assistant Adjunct Professor in the Department of Mathematics at UCLA. I received my PhD  in applied mathematics from Emory University in 2019. My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning. [Daniel McKenzie](https://danielmckenzie.github.io/) and I have a joint research group: the Mines Optimization and Deep Learning group ([MODL](https://ams.mines.edu/research/optimization-and-deep-learning/)). We have a weekly seminar; feel free to email any of us for more for futher details on this.
+
+<!-- where I worked under the guidance of [Lars Ruthotto](http://math.emory.edu/~lruthot/). My research interests lie in the intersection of applied mathematics and data science. In particular, I am interested in inverse problems, optimization, optimal control, and deep learning. -->
 
 <!-- I am currently supported by the National Science Foundation Awards DMS 2309810 and DMS 2110745. -->
 
@@ -21,6 +24,11 @@ I am an Assistant Professor in the [Department of Applied Mathematics and Statis
 
 Recent News
 ======
+* 11/10/2025: Our paper [ A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) has been accepted by the Dynamic Games and Applications. Thanks to Melissa Wang and Levon Nurbekyan for their collaboration.
+* 10/27/2025: It was great participating at the [Optimal Control and Decision Making Under Uncertainty for Digital Twins](https://www.imsi.institute/activities/digital-twins/optimal-control-and-decision-making-under-uncertainty-for-digital-twins/) workshop at IMSI. Thanks to the organizers for the invitation.
+* 10/25/2025: We're hiring! The Department of Applied Mathematics and Statistics at the Colorado School of Mines is hiring up to 3 Postdoctoral Fellows to begin in August 2026.
+See the ad for more information: https://www.mathjobs.org/jobs/list/27350. 
+* 10/22/2025: Our paper [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193) has been accepted by the Journal of Engineering Mathematics. Thanks to Soraya Terrab and Jennifer K. Ryan for their collaboration.
 * 10/01/2025: Our draft [End-to-End Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation](https://arxiv.org/abs/2510.00359) is out. Thanks to Eric Gelphman, Deepanshu Verma, Nichola Yang, and Stanley Osher for the collaboration.
 * 09/09/2025: Our draft [A Monte Carlo Approach for Nonsmooth Convex Optimization via Proximal Splitting Algorithms](https://arxiv.org/abs/2509.07914) is out. Thanks to Nicholas Di and Eric Chi for the collaboration.
 * 06/04/2025: Our draft [A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) is out. Thanks to Melissa Wang and Levon Nurbekyan for the collaboration.

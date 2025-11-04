@@ -1,11 +1,49 @@
 ---
 layout: archive
-title: "Preprints/Submitted Articles"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+You can find a complete list of my publications on my Google Scholar [page](https://scholar.google.com/citations?user=GN6Erl8AAAAJ&hl=en). 
 
+<h3 style="font-size: 28px;">Select Publications</h3>
+<ol start="1">
+<li>
+    Gelphman E, Verma D, Yang N, Osher S, Wu Fung S. <a href="https://arxiv.org/pdf/2510.00359?">End-to-end Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation</a>,  2025.
+  </li>
+  <li>
+    Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. <a href="https://arxiv.org/abs/2103.12803">JFB: Jacobian-free Backpropagation for Implicit Networks</a>, AAAI Conference on Artificial Intelligence, 2022.
+  </li>
+  <li>
+    Ruthotto L, Osher S, Li W, Nurbekyan L, Wu Fung S. <a href="https://www.pnas.org/content/117/17/9183">A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems</a>, Proceedings of the National Academy of Sciences, 2020.
+  </li>
+  <li>
+    Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2409.18945">Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control</a>. American Control Conference, 2025.
+  </li>
+  <li>
+    Onken D, Wu Fung S, Li X, Ruthotto L. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17113">OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport</a>, AAAI Conference on Artificial Intelligence, 2021.
+  </li>
+  <li>
+    Tibshirani R, Wu Fung S, Heaton H, Osher S. <a href="https://arxiv.org/abs/2406.02003">Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method</a>. Journal of Machine Learning Research, 2025.
+  </li>
+  <li>
+    Heaton H, Wu Fung S. <a href="https://arxiv.org/abs/2204.14174">Explainable AI via Learning to Optimize</a>, Scientific Reports, 2023.
+  </li>
+  <li>
+    Osher S, Heaton H, Wu Fung S. <a href="https://arxiv.org/abs/2211.12997">A Hamilton-Jacobi-based Proximal Operator</a>, Proceedings of the National Academy of Sciences, 2023.
+  </li>
+  <li>
+    McKenzie D, Wu Fung S, Heaton H. <a href="https://arxiv.org/abs/2301.13395">Differentiating Through Integer Linear Programs with Quadratic Regularization and Davis-Yin Splitting</a>, Transactions on Machine Learning Research, 2024.
+  </li>
+  <li>
+    Lin AT, Wu Fung S, Li W, Nurbekyan L, Osher S. <a href="https://www.pnas.org/content/118/31/e2024713118">Alternating the Population and Agent Control via Two Neural Networks to Solve High-Dimensional Stochastic Mean Field Games</a>, Proceedings of the National Academy of Sciences, 2021.
+  </li>
+
+
+  
+
+<!-- 
 <ol>
   <li>
     Wang X, Wu Fung S, Nurbekyan L. <a href="https://arxiv.org/abs/2506.04169">A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models</a>. arXiv:2506.04169, 2025.
@@ -112,7 +150,7 @@ author_profile: true
   <li>
     Wu Fung S, Ruthotto L. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042718305946?via%3Dihub">A Multiscale Method for Model Order Reduction in PDE Parameter Estimation</a>, Journal of Computational and Applied Mathematics, 350, 19-34. 2019.
   </li>
-</ol>
+</ol> -->
 
 <!--
 Published/Accepted Articles
