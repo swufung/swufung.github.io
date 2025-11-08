@@ -24,10 +24,11 @@ Prior to joining Mines, I was an Assistant Adjunct Professor in the Department o
 
 Recent News
 ======
-* 11/10/2025: Our paper [ A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) has been accepted by the Dynamic Games and Applications. Thanks to Melissa Wang and Levon Nurbekyan for their collaboration.
+* 11/07/2025: Our paper [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) has been accepted by AAAI for an oral presentation. Thanks to [Brandon Knutson](https://bknutson0.github.io/publications/) for leading the effort, and to Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
+* 11/03/2025: Our paper [ A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) has been accepted by the Dynamic Games and Applications. Thanks to Melissa Wang and Levon Nurbekyan for their collaboration.
 * 10/27/2025: It was great participating at the [Optimal Control and Decision Making Under Uncertainty for Digital Twins](https://www.imsi.institute/activities/digital-twins/optimal-control-and-decision-making-under-uncertainty-for-digital-twins/) workshop at IMSI. Thanks to the organizers for the invitation.
-* 10/25/2025: We're hiring! The Department of Applied Mathematics and Statistics at the Colorado School of Mines is hiring up to 3 Postdoctoral Fellows to begin in August 2026.
-See the ad for more information: https://www.mathjobs.org/jobs/list/27350. 
+* 10/25/2025: We're hiring! The Department of Applied Mathematics and Statistics at the Colorado School of Mines is hiring up to 3 Postdoctoral Fellows to begin in August 2026. See job ad [here](https://www.mathjobs.org/jobs/list/27350).
+
 * 10/22/2025: Our paper [A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs](https://arxiv.org/abs/2408.05193) has been accepted by the Journal of Engineering Mathematics. Thanks to Soraya Terrab and Jennifer K. Ryan for their collaboration.
 * 10/01/2025: Our draft [End-to-End Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation](https://arxiv.org/abs/2510.00359) is out. Thanks to Eric Gelphman, Deepanshu Verma, Nichola Yang, and Stanley Osher for the collaboration.
 * 09/09/2025: Our draft [A Monte Carlo Approach for Nonsmooth Convex Optimization via Proximal Splitting Algorithms](https://arxiv.org/abs/2509.07914) is out. Thanks to Nicholas Di and Eric Chi for the collaboration.
