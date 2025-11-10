@@ -39,8 +39,8 @@ Recent News
 * 02/25/2025: Our paper [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) has been accepted by JMLR. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 01/22/2025: Our works [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) and [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) have been accepted by ACC 2025. Thanks to Alex Vidal and Levon Nurbekyan among others for their collaboration.
-<!-- * 13/12/2024: Soraya Terrab successfully defends her PhD dissertation and will continue her journey as a part time Imaging Research Scientist at Ricoh. Congratulations, Soraya!
-* 10/10/2024: Our draft [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) is out. Thanks to Benjamin Berkels for the collaboration.
+<!-- <!-- * 13/12/2024: Soraya Terrab successfully defends her PhD dissertation and will continue her journey as a part time Imaging Research Scientist at Ricoh. Congratulations, Soraya! -->
+<!-- * 10/10/2024: Our draft [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) is out. Thanks to Benjamin Berkels for the collaboration.
 * 10/04/2024: Our draft [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) is out. Thanks to Brandon Knutson, Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
 * 09/30/2024: Our draft [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
 * 08/09/2024: Our draft [Fast Partial Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) is out. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
@@ -49,7 +49,7 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 * 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!
-![](alex_graduation.png) -->
+![](alex_graduation.png) --> -->
 <!-- <img src="Alex_PhD_celebration.jpg" width="180" height="250"> -->
 
 <!-- * 05/17/2024: Our draft [Kernel Expansions for High-Dimensional
