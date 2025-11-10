@@ -39,8 +39,8 @@ Recent News
 * 02/25/2025: Our paper [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) has been accepted by JMLR. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 01/22/2025: Our works [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) and [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) have been accepted by ACC 2025. Thanks to Alex Vidal and Levon Nurbekyan among others for their collaboration.
-<!-- <!-- * 13/12/2024: Soraya Terrab successfully defends her PhD dissertation and will continue her journey as a part time Imaging Research Scientist at Ricoh. Congratulations, Soraya! -->
-<!-- * 10/10/2024: Our draft [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) is out. Thanks to Benjamin Berkels for the collaboration.
+<!-- * 13/12/2024: Soraya Terrab successfully defends her PhD dissertation and will continue her journey as a part time Imaging Research Scientist at Ricoh. Congratulations, Soraya!
+* 10/10/2024: Our draft [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) is out. Thanks to Benjamin Berkels for the collaboration.
 * 10/04/2024: Our draft [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) is out. Thanks to Brandon Knutson, Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
 * 09/30/2024: Our draft [Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control](https://arxiv.org/abs/2409.18945) is out. Thanks to Levon Nurbekyan for the collaboration.
 * 08/09/2024: Our draft [Fast Partial Transforms for Large-Scale Ptychography](https://arxiv.org/abs/2408.03532) is out. Thanks to Ricardo Parada and Stanley Osher for the collaboration.
@@ -49,15 +49,15 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 * 06/05/2024: Our draft [Laplace Meets Moreau: Smooth Approximation to Infimal Convolutions Using Laplace's Method](https://arxiv.org/abs/2406.02003) is out. Thanks to Ryan Tibshirani, Howard Heaton, and Stanley Osher for the collaboration.
 * 05/22/2024: Alex Vidal successfully defends his PhD dissertation and will continue his journey as a Sr. Data Scientist at NerdWallet.
 Congratulations, Alex!
-![](alex_graduation.png) --> -->
-<!-- <img src="Alex_PhD_celebration.jpg" width="180" height="250"> -->
+![](alex_graduation.png)
+<img src="Alex_PhD_celebration.jpg" width="180" height="250"> -->
 
 <!-- * 05/17/2024: Our draft [Kernel Expansions for High-Dimensional
 Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922) is out. Thanks to Alex Vidal, Luis Tenorio, Levon Nurbekyan, and Stanley Osher for the collaboration.
 * 04/2024: Our draft [Three-Operator Splitting for Learning to Predict Equilibria in Convex Games](https://arxiv.org/abs/2106.00906) has been accepted by SIAM Journal on Mathematics of Data Science. Thanks to Daniel McKenzie, Howard Heaton, Qiuwei Li, Wotao Yin, and Stanley Osher for the collaboration.
-* 04/2024: I am honored to receive the 2024 Laney Early Career Alumni Award -->
-<!-- (https://gs.emory.edu/spotlight/deans-address-2024.html). -->
-<!-- * 12/2023: Our draft [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) is out and has been accepted by the in NeurIPS Workshop on Unifying Representations in Neural Models (UniReps). Thanks to Michael Ivanitskiy, Alex Spies, Tilman Räuker, and everyone else involved for the collaboration.
+* 04/2024: I am honored to receive the 2024 Laney Early Career Alumni Award
+(https://gs.emory.edu/spotlight/deans-address-2024.html).
+* 12/2023: Our draft [Structured World Representations in Maze-Solving Transformers](https://arxiv.org/abs/2312.02566) is out and has been accepted by the in NeurIPS Workshop on Unifying Representations in Neural Models (UniReps). Thanks to Michael Ivanitskiy, Alex Spies, Tilman Räuker, and everyone else involved for the collaboration.
 * 09/2023: Our preprint [A Configurable Library for Generating and Manipulating Maze Datasets](https://arxiv.org/abs/2309.10498) is out. Thanks to Michael Ivanitskiy and everyone else involved for the collaboration, and to AI Safety Camp for the support.
 * 07/2023: [NSF-DMS award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309810&HistoricalAwards=false) received! This grant will help fund our work on learning to optimize. Thanks to my colleagues and Mines for the help and support.
 * 06/2023: Our paper, [Explainable AI via Learning to Optimize](https://arxiv.org/abs/2204.14174) has been accepted by Scientific Reports. Thanks to Howard Heaton for his collaboration.
@@ -67,12 +67,12 @@ Mean-Field Control with Non-local Interactions](https://arxiv.org/abs/2405.10922
 * 03/2023: Our paper [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) has been accepted by the Proceedings of the National Academy of Sciences. Thanks to Howard Heaton and Stan Osher for the collaboration.
 * 02/2023: Our draft [Faster Predict-and-Optimize
 with Davis-Yin Splitting](https://arxiv.org/abs/2301.13395) is out. Thanks to Daniel McKenzie and Howard Heaton for the collaboration.
-* 12/2022: Our [SIAM News Article on Learning to Optimize](https://sinews.siam.org/Details-Page/learning-to-optimize-where-deep-learning-meets-optimization-and-inverse-problems) is out. Thanks to Daniel McKenzie and Wotao Yin for the collaboration. -->
-<!-- * 11/2022: Our draft [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) is out. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration. -->
-<!-- * 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration. -->
-<!-- Below is a video of our work -->
-<!-- <iframe width="530" height="315" src="https://www.youtube.com/embed/1_H2dXZsgHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<!-- * 11/2022: Our paper [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
+* 12/2022: Our [SIAM News Article on Learning to Optimize](https://sinews.siam.org/Details-Page/learning-to-optimize-where-deep-learning-meets-optimization-and-inverse-problems) is out. Thanks to Daniel McKenzie and Wotao Yin for the collaboration.
+* 11/2022: Our draft [Taming Hyperparameter Tuning in Continuous Normalizing Flows Using the JKO Scheme](https://arxiv.org/abs/2211.16757) is out. Thanks to Alexander Vidal, Luis Tenorio, Stanley Osher, and Levon Nuberkyan for their collaboration.
+* 11/2022: Our draft [A Hamilton-Jacobi-based Proximal Operator](https://arxiv.org/abs/2211.12997) is out. Thanks to Howard Heaton and Stan Osher for the collaboration.
+Below is a video of our work
+<iframe width="530" height="315" src="https://www.youtube.com/embed/1_H2dXZsgHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* 11/2022: Our paper [A Numerical Algorithm for Inverse Problem from Partial Boundary Measurement Arising from Mean Field Game Problem](https://arxiv.org/abs/2204.04851) has been accepted by the journal Inverse Problems. Thanks to Yat Tin Chow, Siting Liu, Levon Nurbekyan, and Stan Osher for the collaboration.
 * 11/2022: Our paper [Global Solutions to Nonconvex Problems via Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/abs/2202.11014) has been accepted by the journal Communications on Applied Mathematics and Computation. Thanks to Howard Heaton and Stanley Osher for the collaboration.
 * 07/21/2022: It's been a great summer working at the [2022 Emory Computational Mathematics for Data Science REU/RET on Model Meets Data](http://www.math.emory.edu/site/cmds-reuret/summer2022/). Congratulations to Linghai Liu, Lisa Zhou, and Allen Tong (left to right) on a successful REU and poster presentation on implicit deep learning and inverse problems.
 ![](team_jfb_poster.jpg)
