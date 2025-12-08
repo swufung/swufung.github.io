@@ -24,6 +24,7 @@ Prior to joining Mines, I was an Assistant Adjunct Professor in the Department o
 
 Recent News
 ======
+* 11/27/2025: Our review paper [Recent Advances in Numerical Solutions for Hamilton-Jacobi PDEs](https://arxiv.org/abs/2502.20833) has been accepted by Communications on Applied Mathematics and Computation. Thanks to Tingwei Meng, Siting Liu, and Stanley Osher for the collaboration. 
 * 11/07/2025: Our paper [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020) has been accepted by AAAI for an oral presentation. Thanks to [Brandon Knutson](https://bknutson0.github.io/publications/) for leading the effort, and to Amandin Chyba, Michael Ivanitskiy, Jordan Pettyjohn, Cecilia Diniz-Behn, and Daniel McKenzie for the collaboration.
 * 11/03/2025: Our paper [ A Primal-Dual Price-Optimization Method for Computing Equilibrium Prices in Mean-Field Games Models](https://arxiv.org/abs/2506.04169) has been accepted by the Dynamic Games and Applications. Thanks to Melissa Wang and Levon Nurbekyan for their collaboration.
 * 10/27/2025: It was great participating at the [Optimal Control and Decision Making Under Uncertainty for Digital Twins](https://www.imsi.institute/activities/digital-twins/optimal-control-and-decision-making-under-uncertainty-for-digital-twins/) workshop at IMSI. Thanks to the organizers for the invitation.
