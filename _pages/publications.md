@@ -10,7 +10,10 @@ You can find a complete list of my publications on my Google Scholar [page](http
 <h3 style="font-size: 28px;">Select Publications</h3>
 <ol start="1">
 <li>
-    Gelphman E, Verma D, Yang N, Osher S, Wu Fung S. <a href="https://arxiv.org/pdf/2510.00359?">End-to-end Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation</a>,  2025.
+    Gelphman E, Verma D, Yang N, Osher S, Wu Fung S. <a href="https://arxiv.org/abs/2602.00921">On the Convergence of Jacobian-Free Backpropagation for Optimal Control Problems with Implicit Hamiltonians</a>,  2026.
+  </li>
+  <li>
+    Di N, Chi E, Wu Fung S. <a href="https://arxiv.org/abs/2601.22370">Operator Splitting with Hamilton-Jacobi-based Proximals</a>,  2026.
   </li>
   <li>
     Wu Fung S, Heaton H, Li Q, McKenzie D, Osher S, Yin W. <a href="https://arxiv.org/abs/2103.12803">JFB: Jacobian-free Backpropagation for Implicit Networks</a>, AAAI Conference on Artificial Intelligence, 2022.
