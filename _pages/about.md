@@ -24,6 +24,7 @@ Prior to joining Mines, I was an Assistant Adjunct Professor in the Department o
 
 Recent News
 ======
+* 02/10/2026: Our paper [A Generalization Bound for a Family of Implicit Networks](https://arxiv.org/abs/2410.07427) has been accepted by Neurocomputing. Thanks to Benjamin Berkels for the collaboration.
 * 02/03/2026: Our draft [On the Convergence of Jacobian-Free Backpropagation for Optimal Control Problems with Implicit Hamiltonians](https://arxiv.org/abs/2602.00921) is out. Thanks to [Eric Gelphman](https://scholar.google.com/citations?user=fs-hFC8AAAAJ&hl=en&oi=ao) for leading the effort, and Deepanshu Verma, Nicole Yang, and Stanley Osher for the collaboration.
 * 02/02/2026: Our draft [Operator Splitting with Hamilton-Jacobi-based Proximals](https://arxiv.org/abs/2601.22370) is out. Thanks to Nicholas Di and Eric Chi for the collaboration.
 * 01/21/2026: Our paper [End-to-End Training of High-Dimensional Optimal Control with Implicit Hamiltonians via Jacobian-Free Backpropagation](https://arxiv.org/abs/2510.00359) has been accepted by ACC 2026. Thanks to Eric Gelphman, Deepanshu Verma, Nicole Yang, and Stanley Osher for the collaboration.
