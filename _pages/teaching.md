@@ -8,8 +8,6 @@ author_profile: true
 	* Spring 2026, Spring 2024, Spring 2023
 * Math598B: Mathematical Foundations for Interpretability and Alignment of Large Language Models, Colorado School of Mines
 	* Spring 2026, Spring 2025, Spring 2024
-* Math598: Numerical Optimization, Colorado School of Mines
-	* Spring 2023
 * Math307: Intro to Scientific Computing, Colorado School of Mines
 	* Fall 2023, Fall 2022, Spring 2022, Fall 2021 
 * Math270C: Computational Linear Algebra (Graduate Level), UCLA
