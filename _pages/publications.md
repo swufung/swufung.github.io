@@ -13,7 +13,7 @@ You can find a complete list of my publications on my Google Scholar [page](http
     Gelphman E, Verma D, Yang N, Osher S, Wu Fung S. <a href="https://arxiv.org/abs/2602.00921">On the Convergence of Jacobian-Free Backpropagation for Optimal Control Problems with Implicit Hamiltonians</a>,  2026.
   </li>
   <li>
-    Di N, Chi E, Wu Fung S. <a href="https://arxiv.org/abs/2601.22370">Operator Splitting with Hamilton-Jacobi-based Proximals</a>, ICML,  2026.
+    Di N, Chi E, Wu Fung S. <a href="https://arxiv.org/abs/2601.22370">Operator Splitting with Hamilton-Jacobi-based Proximals</a>, International Conference on Machine Learning (ICML),  2026.
   </li>
   <li>
     Knutson B, Chyba A, Ivanitskiy M, Pettyjohn J, Diniz Behn C, Wu Fung S, McKenzie D. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39424"> On logical extrapolation for mazes with recurrent and implicit networks</a>, AAAI Conference on Artificial Intelligence, 2026.
