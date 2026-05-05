@@ -24,7 +24,7 @@ Prior to joining Mines, I was an Assistant Adjunct Professor in the Department o
 
 Recent News
 ======
-* 04/30/2026: Our paper [Operator Splitting with Hamilton-Jacobi-based Proximals](https://arxiv.org/abs/2601.22370) has been accepted into ICML. Thanks to Nicholas Di for leading the effort and Eric Chi for the collaboration.
+* 04/30/2026: Our paper [Operator Splitting with Hamilton-Jacobi-based Proximals](https://arxiv.org/abs/2601.22370) has been accepted into ICML. Thanks to [Nicholas Di](https://nicholasdi2000.github.io/) for leading the effort and Eric Chi for the collaboration.
 * 03/21/2026: Our Draft [Mean-Field Control Barrier Functions for Stochastic Multi-Agent Systems](https://arxiv.org/abs/2603.18658) is out. Thanks to Cinzia Tomaselli, Gian Carlo Maffettone, Levon Nurbekyan, and Mario di Bernardo for the collaboration.
 * 03/13/2026: Our Draft [Probabilistic Gaussian Homotopy: A Probability-Space Continuation Framework for Nonconvex Optimization](https://arxiv.org/abs/2603.13546) is out. Thanks to Eshed Gal and Eldad Haber for the collaboration.
 * 03/06/2026: Our draft [A Gauss-Newton Method with No Additional PDE Solves Beyond Gradient Evaluation for Large-Scale PDE-Constrained Inverse Problems](https://arxiv.org/abs/2603.06899) is out. Thanks to Cash Cherry, Luis Tenorio, and Ebru Bozdag for their collaboration.
