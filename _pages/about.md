@@ -24,6 +24,7 @@ Prior to joining Mines, I was an Assistant Adjunct Professor in the Department o
 
 Recent News
 ======
+* 08/05/2026: Our draft [Truncated Differentiation Through Primal-Dual Solvers for Inverse Potential Mean-Field Games](https://arxiv.org/abs/2608.00217) is out. Thanks to Siting Liu and Yat Tin Chow for their collaboration.
 * 07/27/2026: Our draft [End-to-End Learning of Safe Optimal Feedback Control in High Dimensions with Control Barrier Function Layers](https://arxiv.org/abs/2607.20674) is out. Thanks to Xingjian Li, Kelvin Kan, Deepanshu Verma, Krishna Kumar, and Stanley Osher for the collaboration. 
 * 06/09/2026: Our paper [Mean-Field Control Barrier Functions for Stochastic Multi-Agent Systems](https://arxiv.org/abs/2603.18658) has been accepted by IEEE Control Systems Letters. Thanks to Cinzia Tomaselli, Gian Carlo Maffettone, Levon Nurbekyan, and Mario di Bernardo for the collaboration.
 * 05/28/2026: Our paper [Probabilistic Gaussian Homotopy: A Probability-Space Continuation Framework for Nonconvex Optimization](https://arxiv.org/abs/2603.13546) has been accepted by the European Conference on Machine Learning (ECML-PKDD). Thanks to Eshed Gal and Eldad Haber for the collaboration.
